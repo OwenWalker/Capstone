@@ -4,7 +4,7 @@ Capstone for Nashville Software School
 - This project will be a Marketing campaign data visualization of Twitch Channels data.
 - I will be sourcing data from across the web and cleaning for my specific needs in Python.
 - After cleaning, I will import the data into Power BI and create a visualization and dashboard. After importing the data, I will create a script for my Marketing campaign.
-- My intention with this data set is to create a list of the top Creators on the Twitch platform and create a sponsorship with them to advertize a "New Product". 
+- My intention with this data set is to create a list of the top Creators on the Twitch platform and create a sponsorship with one of them to advertize a "New Product". 
 - My reason for sponsoring this speciific channel is so the channel would not need an ad to play or produce one, which would save the company money. By people seeing what product the channel is using, the viewers would be curious and ask about the product, to which the channel would respond with the sponsorship.
 - Another reason behind this is beacuse of YouTube "review" channels. After "review" channels see this channel with a sponsorship of this product, viewers will rush to other creators (primarily Creators that do YouTube reviews) and ask for them to review it, Which in turn will generate more sales based off that Creator(s) review(s). 
 
