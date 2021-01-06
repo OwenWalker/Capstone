@@ -17,7 +17,7 @@ Capstone for Nashville Software School
 - After an extensive struggle to clean the YouTube data sets I was finally able to drop the Null values and work with the 7,000 rows I was left with. After cleaning to exactly what I needed I exported the data set to a CSV and loaded it into Power BI. 
 - While putting together the visualizations for the YouTube data set I noticed the data set was coming back with incorrect data. Unfortunatly that means I was unable to continue using the data.  
 
--After not being able to use the YouTube data I continued to read in my Twitch data sets. I cleaned up the sets as best as I could. I removed unnamed columns and a few rows as they were not the information I was looking for. I removed the "Just Chatting" row from the highest average viewers data set because I do not consider that a game being played on Twitch.
+- After not being able to use the YouTube data I continued to read in my Twitch data sets. I cleaned up the sets as best as I could. I removed unnamed columns and a few rows as they were not the information I was looking for. I removed the "Just Chatting" row from the highest average viewers data set because I do not consider that a game being played on Twitch.
 
 - I exported my data to CSV once the data sets were cleaned and imported them into Power BI for my visualizations. Once I imported the Twitch data sets I was able to think of a product to "market" I chose the Steelseries Aerox 3 wireless gaming mouse. This mouse is one of the best on the market right now for gaming. Having the Air TrueMove optical sensor that has the fastest response time as well as the TrueMove sensor. The TrueMove sensor allows for full screen movement (Side to Side) on your monitor.
 
@@ -25,4 +25,6 @@ Capstone for Nashville Software School
 
 - After choosing my producty it was time to conitune on with  my visualizatons in Power BI. First I wanted to look at who has the most followers on Twitch. As I continued creating my visuals I thought about how followers does not really matter when it somes to a sponorship on Twitch. What matters is the average amount of viewers a channel has. I created a visual to show who had the highest average viewersship on Twitch, and in the lead is "Tommyinnit". As I continued on with my visuals, I thought about watch time per channel. I remembered that Twitch records past broadcasts for people to watch after the live stream is over these are called VODs (Video on Demand).
 
-While looking into who had the most watch time I found "Asmongold" who has a total watch time of 94 Million hours on twitch! This is one of my key factors in deciding on who to sponsor for this project.
+- While looking into who had the most watch time I found "Asmongold" who has a total watch time of 94 Million hours on twitch! This is one of my key factors in deciding on who to sponsor for this project.
+
+
