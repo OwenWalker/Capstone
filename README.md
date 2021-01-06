@@ -23,4 +23,4 @@ Capstone for Nashville Software School
 
 - I chose Steelseries because I use several of their products and I could not recomend them enough! 
 
-- After choosing my producty it was time to conitune on with  my visualizatons in Power BI. First I wanted to look at who has 
+- After choosing my producty it was time to conitune on with  my visualizatons in Power BI. First I wanted to look at who has the most followers on Twitch. As I continued creating 
