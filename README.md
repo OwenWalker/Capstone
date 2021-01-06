@@ -23,4 +23,6 @@ Capstone for Nashville Software School
 
 - I chose Steelseries because I use several of their products and I could not recomend them enough! 
 
-- After choosing my producty it was time to conitune on with  my visualizatons in Power BI. First I wanted to look at who has the most followers on Twitch. As I continued creating 
+- After choosing my producty it was time to conitune on with  my visualizatons in Power BI. First I wanted to look at who has the most followers on Twitch. As I continued creating my visuals I thought about how followers does not really matter when it somes to a sponorship on Twitch. What matters is the average amount of viewers a channel has. I created a visual to show who had the highest average viewersship on Twitch, and in the lead is "Tommyinnit". As I continued on with my visuals, I thought about watch time per channel. I remembered that Twitch records past broadcasts for people to watch after the live stream is over these are called VODs (Video on Demand).
+
+While looking into who had the most watch time I found "Asmongold" who has a total watch time of 94 Million hours on twitch! This is one of my key factors in deciding on who to sponsor for this project.
